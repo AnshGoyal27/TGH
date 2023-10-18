@@ -11,3 +11,4 @@
    f. PUT –Add Task: http://localhost:3000/admin/add/task <br/>
    g. GET – GET Task: http://localhost:3000/student/tasks <br/>
    h. PUT – Update Status: http://localhost:3000/student/updateStatus <br/>
+5. https://docs.google.com/document/d/1K_GU7khTDbSYZsVzE-au1kLwDG0XfA18/edit?usp=sharing&ouid=110577272546854154187&rtpof=true&sd=true
