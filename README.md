@@ -2,7 +2,7 @@
 1. Clone the github project
 2. Run command 'npm i' in the terminal at project folder
 3. Run command 'nodemon server.js' in the terminal at project folder
-4. API:
+4. API: <br/>
    a. POST – Admin Signup: http://localhost:3000/admin/signup <br/>
    b. POST – Student Signup: http://localhost:3000/student/signup <br/>
    c. POST – Admin Login: http://localhost:3000/admin/login <br/>
